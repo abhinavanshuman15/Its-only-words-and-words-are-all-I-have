@@ -30,3 +30,8 @@ Genre prediction codes are available in genre predition directory, whereas Popul
   3. train_doc2vec.py <model> <did> trains the model, it takes two parameter to select the model to be used and the                experiment dataset identification ID to select dataset. Trained models are stored in models directory.
   4. test.py <did> takes one parameter experiment dataset identification ID and perform cosine similarity between test songs      embeddings and genre embeddings to predict its genre. It stores the confusion matrix in confusion_matrix directory.
   5. f1_score.py <did> calculates the f1 score from confusion matrix.
+
+### Popularity Prediction:
+  All the execution steps for popularity prediction files are similar to genre prediction task with each file needs an extra   parameter genre name. As all popularity prediction tasks are done by creating a separate model for each genre.
+ 
+ Models directory contains some pre trained models. Results are stored in results directory.
