@@ -1,5 +1,8 @@
 # Its-only-words-and-words-are-all-I-have
-Prediction of Genre and popularity of English songs based on lyrics.(NLP)
+
+## Description:
+This project uses distributed representation of documents approach to perform music mining tasks. As part of music mining task we are working on two tasks: prediction of genre and prediction of popularity of English songs based on lyrics (NLP). Using distributed representation models we gets embedding for each songs as well as embedding of each genre and popularity class.
+We use cosine-similarity between songs embedding as well as genre embedding to predict its genre. We also experimented with classical models like SVM, RandomForest, KNN using the generated songs embeddings.  
 
 ## Requirements:
 1. Python 3.6
