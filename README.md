@@ -18,3 +18,10 @@ Our architecture diagram is as below.
 <p align="center">
   <img width="640" height="200" src="Architecture/docvec.png">
 </p>
+
+## Dataset:
+Lyrics of songs are collected from user generated contents from internet as there is no publicly available datset for songs, due to copyright issues. We are not sharing our dataset due to same reason. For verification purpose user generated songs can be used to test the pre trained model.
+
+## Execution Steps:
+Genre prediction codes are available in genre predition directory, whereas Popularity prediction codes are available in popularity prediction directory.
+### Genre Prediction:
