@@ -13,5 +13,5 @@ Prediction of Genre and popularity of English songs based on lyrics.(NLP)
 Our architecture diagram is as below.
 ![alt text](Architecture/docvec.png)
 <p align="center">
-  <img width="660" height="150" src="Architecture/docvec.png">
+  <img width="660" height="180" src="Architecture/docvec.png">
 </p>
