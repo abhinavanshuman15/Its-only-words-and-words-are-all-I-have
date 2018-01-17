@@ -1,7 +1,7 @@
 # Its-only-words-and-words-are-all-I-have
 Prediction of Genre and popularity of English songs based on lyrics.(NLP)
 
-# Requirements:
+## Requirements:
 1. Python 3.6
 2. gensim 2.2.0
 3. numpy 1.12.1
