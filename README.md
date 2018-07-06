@@ -16,7 +16,7 @@ We use cosine-similarity between songs embedding as well as genre embedding to p
 Our architecture diagram is as below. We experimented with both distributed memory and distributed bag of words approach of distributed representation generation of documents to get embeddings for each songs.
 
 <p align="center">
-  <img width="640" height="200" src="Architecture/docvec.png">
+  <img width="640" height="200" src="Architecture/architecture.png">
 </p>
 
 ## Dataset:
